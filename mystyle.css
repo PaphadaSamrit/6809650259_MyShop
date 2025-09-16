@@ -1,0 +1,305 @@
+@import url(https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Sofia&display=swap);
+
+body{
+    width: 100%;
+    background-color: #fff9f0;
+}
+
+.brandname{
+    line-height: 0.5px;
+}
+
+h4{
+    font-family: oleo script swash caps;
+    color: rgb(107, 77, 56);
+    font-size: 40px;
+    text-shadow: -0.5px -0.5px 0 #422b23,
+                  0.5px -0.5px 0 #422b23,
+                 -0.5px  0.5px 0 #422b23,
+                  0.5px  0.5px 0 #422b23;
+    
+    margin-top: 35px;
+                  
+}
+
+
+
+h6{
+    color: #91766e;
+    text-align: right;
+    margin-right: 370px;
+}
+
+table{
+    width: 98%;
+}
+
+.headicon{
+    text-align: right;
+    margin-top: 35px;
+    margin-right: 5px;
+}
+
+.search{
+    text-align: left;
+    width: 25px;
+    margin-left: 17px;
+    margin-top: 35px;
+}
+
+.basket{
+    width: 25px;
+    margin-right: 20px;
+}
+
+.profile{
+    width: 25px;
+}
+
+.tabbar{
+    width: 100%;
+    background-color: #a1ad95;
+}
+
+.video{
+    width: 99.9%;
+    height: 350px;
+    background-image: url(resources/backgroundmp4.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.imgfrom{
+    position: absolute;
+    top: 79%;
+    right: -5%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 11px;
+}
+
+.info{
+    
+    margin-top: 45px;
+    margin-right: 45px;
+    
+    .infonecklace{
+        width: 240px;
+        margin-right: 10px;
+        float: right;
+    }
+
+    .infoearing{
+        width: 190px;
+        margin-right: 10px;
+        float: right;
+    }
+
+    .inforing{
+        width: 170px;
+        margin-right: 10px;
+        float: right;
+    }
+
+}
+
+.pinfo{
+        margin-left: 45px;
+        text-align: top;
+        margin-top: 90px;
+}
+
+b{
+        font-size: 30px;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.trending{
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin-left: 130px;
+    width: 89%;
+}
+
+.headtrend{
+        margin-left: 150px;
+        margin-top: 80px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+.ring1{
+    position: relative;
+    width: 200px;
+    
+
+    .picring1{
+        width: 100%;
+        height: 286px;
+        display: block;
+    }
+
+    .pring1{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bring1{
+        font-size: 17px;
+    }
+
+    .pricering1{
+        font-size: 13px;
+    }
+}
+
+.ring2{
+    position: relative;
+    width: 200px;
+
+    .picring2{
+        width: 100%;
+        height: 287.5px;
+        display: block;
+    }
+
+    .pring2{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bring2{
+        font-size: 17px;
+    }
+
+    .pricering2{
+        font-size: 13px;
+    }
+}
+
+.earing1{
+    position: relative;
+    width: 200px;
+
+    .picearing1{
+        width: 100%;
+        height: 287px;
+        display: block;
+    }
+
+    .pearing1{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bearing1{
+        font-size: 17px;
+    }
+
+    .priceearing1{
+        font-size: 13px;
+    }
+}
+
+.earing2{
+    position: relative;
+    width: 200px;
+
+    .picearing2{
+        width: 100%;
+        height: 287px;
+        display: block;
+    }
+
+    .pearing2{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bearing2{
+        font-size: 17px;
+    }
+
+    .priceearing2{
+        font-size: 13px;
+    }
+}
+
+button{
+    background-color: #91766e;
+    border-radius: 50px 50px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}
+
+.necklace{
+    width: 70%;
+    margin-top: 50px;
+    background-color: white;
+    
+
+    .picneck{
+        width: 430px;
+        margin-top: 4.5px;
+        text-align: right;
+        margin-left: 4.5px;
+    }
+    
+    .pneck{
+        text-align: left;
+    }
+
+    i{
+        font-size: 25px;
+        font-weight: bold;
+    }
+}
+
+footer{
+    border: 1px;
+    border-color: #a1ad95;
+    background-color: #a1ad95;
+    height: 140px;
+    color: white;
+    text-align: center;
+
+    hr{
+        color: white;
+    }
+}
