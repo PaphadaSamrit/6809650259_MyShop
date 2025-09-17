@@ -17,7 +17,6 @@ h4{
                   0.5px -0.5px 0 #422b23,
                  -0.5px  0.5px 0 #422b23,
                   0.5px  0.5px 0 #422b23;
-    
     margin-top: 35px;
                   
 }
@@ -57,7 +56,7 @@ table{
 }
 
 .tabbar{
-    width: 100%;
+    width: 98%;
     background-color: #a1ad95;
 }
 
@@ -303,3 +302,168 @@ footer{
         color: white;
     }
 }
+
+.headernecklace{
+    font-family: oleo script swash caps;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: #422b23;
+    text-shadow: -0.5px -0.5px 0 #422b23,
+                  0.5px -0.5px 0 #422b23,
+                 -0.5px  0.5px 0 #422b23,
+                  0.5px  0.5px 0 #422b23;
+    
+}
+
+
+.necklacemerchbar1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-spacing: 100px;
+
+
+
+.neck1{
+    position: relative;
+    width: 200px;
+    
+
+    .picneck1{
+        width: 370px;
+        height: 100%;
+        display: block;
+    }
+
+    .pneck1{
+        position: absolute;
+        width: 230px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bneck1{
+        font-size: 17px;
+    }
+
+    .priceneck1{
+        font-size: 13px;
+    }
+}
+
+.neck2{
+    position: relative;
+    width: 300px;
+    
+
+    .picneck2{
+        width: 377px;
+        height: 100%;
+        display: block;
+    }
+
+    .pneck2{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bneck2{
+        font-size: 17px;
+    }
+
+    .priceneck2{
+        font-size: 13px;
+    }
+}
+
+}
+
+.necklacemerchbar2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-spacing: 100px;
+    margin-top: -80px;
+}
+
+.neck3{
+    position: relative;
+    width: 200px;
+}
+
+    .picneck3{
+        width: 370px;
+        height: 100%;
+        display: block;
+    }
+
+    .pneck3{
+        position: absolute;
+        width: 230px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bneck3{
+        font-size: 17px;
+    }
+
+    .priceneck3{
+        font-size: 13px;
+    }
+
+
+.neck4{
+    position: relative;
+    width: 300px;
+}
+
+    .picneck4{
+        width: 364px;
+        height: 100%;
+        display: block;
+    }
+
+    .pneck4{
+        position: absolute;
+        width: 150px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bneck4{
+        font-size: 17px;
+    }
+
+    .priceneck4{
+        font-size: 13px;
+    }
