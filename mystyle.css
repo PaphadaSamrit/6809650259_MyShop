@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Sofia&display=swap);
 
 body{
-    width: 100%;
+    width: 99%;
     background-color: #fff9f0;
 }
 
@@ -30,7 +30,7 @@ h6{
 }
 
 table{
-    width: 98%;
+    width: 99.9%;
 }
 
 .headicon{
@@ -56,12 +56,12 @@ table{
 }
 
 .tabbar{
-    width: 98%;
+    width: 100%;
     background-color: #a1ad95;
 }
 
 .video{
-    width: 99.9%;
+    width: 99%;
     height: 350px;
     background-image: url(resources/backgroundmp4.jpg);
     background-size: cover;
@@ -75,6 +75,7 @@ table{
     transform: translate(-50%, -50%);
     color: white;
     font-size: 11px;
+    width: 97%;
 }
 
 .info{
@@ -297,6 +298,7 @@ footer{
     height: 140px;
     color: white;
     text-align: center;
+    margin-top: 50px;
 
     hr{
         color: white;
