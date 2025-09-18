@@ -313,7 +313,7 @@ footer{
                   0.5px -0.5px 0 #422b23,
                  -0.5px  0.5px 0 #422b23,
                   0.5px  0.5px 0 #422b23;
-    
+    margin-bottom: 0%;
 }
 
 
@@ -416,7 +416,7 @@ footer{
 
     .pneck3{
         position: absolute;
-        width: 230px;
+        width: 200px;
         background: white;
         padding: 10px;
         text-align: left;
@@ -449,7 +449,7 @@ footer{
 
     .pneck4{
         position: absolute;
-        width: 150px;
+        width: 230px;
         background: white;
         padding: 10px;
         text-align: left;
@@ -465,5 +465,260 @@ footer{
     }
 
     .priceneck4{
+        font-size: 13px;
+    }
+
+.neck5{
+    position: relative;
+    align-content: center;
+    width: 300px;
+    left: 35%;
+
+}
+
+    .picneck5{
+        width: 364px;
+        height: 430px;
+        display: block;
+    }
+
+    .pneck5{
+        position: absolute;
+        width: 200px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bneck5{
+        font-size: 17px;
+    }
+
+    .priceneck5{
+        font-size: 13px;
+    }
+
+.headerring{
+    font-family: oleo script swash caps;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: #422b23;
+    text-shadow: -0.5px -0.5px 0 #422b23,
+                  0.5px -0.5px 0 #422b23,
+                 -0.5px  0.5px 0 #422b23,
+                  0.5px  0.5px 0 #422b23;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    
+}
+
+
+.ringmerchbar1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-spacing: 100px;
+
+
+
+.ringy1{
+    position: relative;
+    width: 200px;
+    
+
+    .picringy1{
+        width: 370px;
+        height: 100%;
+        display: block;
+    }
+
+    .pringy1{
+        position: absolute;
+        width: 230px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bringy1{
+        font-size: 17px;
+    }
+
+    .priceringy1{
+        font-size: 13px;
+    }
+}
+
+.ringy2{
+    position: relative;
+    width: 300px;
+    
+
+    .picringy2{
+        width: 377px;
+        height: 433px;
+        display: block;
+    }
+
+    .pringy2{
+        position: absolute;
+        width: 240px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bringy2{
+        font-size: 17px;
+    }
+
+    .priceringy2{
+        font-size: 13px;
+    }
+}
+
+}
+
+.headerear{
+    font-family: oleo script swash caps;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: #422b23;
+    text-shadow: -0.5px -0.5px 0 #422b23,
+                  0.5px -0.5px 0 #422b23,
+                 -0.5px  0.5px 0 #422b23,
+                  0.5px  0.5px 0 #422b23;
+    
+    margin-bottom: 0%;
+    
+}
+
+
+.earmerchbar1{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-collapse: separate;
+    border-spacing: 100px;
+
+
+
+.ear1{
+    position: relative;
+    width: 200px;
+    
+
+    .picear1{
+        width: 370px;
+        height: 100%;
+        display: block;
+    }
+
+    .pear1{
+        position: absolute;
+        width: 230px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bear1{
+        font-size: 17px;
+    }
+
+    .priceear1{
+        font-size: 13px;
+    }
+}
+
+.ear2{
+    position: relative;
+    width: 300px;
+    
+
+    .picear2{
+        width: 400px;
+        height: 470px;
+        display: block;
+    }
+
+    .pear2{
+        position: absolute;
+        width: 240px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bear2{
+        font-size: 17px;
+    }
+
+    .priceear2{
+        font-size: 13px;
+    }
+}
+}
+
+.ear3{
+    position: relative;
+    align-content: center;
+    width: 300px;
+    left: 35%;
+
+}
+
+    .picear3{
+        width: 364px;
+        height: 430px;
+        display: block;
+    }
+
+    .pear3{
+        position: absolute;
+        width: 200px;
+        background: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 11px;
+        line-height: 1.5;
+        bottom: -12px;
+        margin-left: 15px;
+        margin-bottom: 23px;
+    }
+
+    .bear3{
+        font-size: 17px;
+    }
+
+    .priceear3{
         font-size: 13px;
     }
